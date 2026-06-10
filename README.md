@@ -115,9 +115,9 @@ The system is built using a relational database and follows Third Normal Form (3
 
 ## Team Members
 
-* Bushra Batool
-* Misbah Tariq
-* Kashaf Azmat
+* Bushra Batool (250901006)
+* Misbah Tariq (250901047)
+* Kashaf Azmat (250901009)
 
 ---
 
